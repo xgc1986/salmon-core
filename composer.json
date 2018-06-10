@@ -1,6 +1,6 @@
 {
     "type": "library",
-    "name": "salmon/core",
+    "name": "salmon/salmon-core",
     "description": "core",
     "license": "proprietary",
     "require": {
@@ -8,8 +8,8 @@
         "ext-ctype": "*",
         "ext-iconv": "*",
         "pda/pheanstalk": "@stable",
-        "symfony/console": "*",
-        "symfony/framework-bundle": "*"
+        "symfony/console": "@stable",
+        "symfony/framework-bundle": "@stable"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "@stable"
