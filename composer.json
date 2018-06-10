@@ -1,6 +1,6 @@
 {
     "type": "library",
-    "name": "salmon/salmon-core",
+    "name": "salmonapp/core",
     "description": "core",
     "license": "proprietary",
     "require": {
